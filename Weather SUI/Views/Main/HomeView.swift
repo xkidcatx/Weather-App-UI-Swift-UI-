@@ -92,6 +92,7 @@ struct HomeView: View {
             }
             .navigationBarHidden(true)
         }
+        
     }
     
     private var attributedString: AttributedString {
